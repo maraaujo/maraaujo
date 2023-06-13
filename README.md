@@ -5,7 +5,7 @@
 - 📫 Contrate-me no email: mclemos65@gmail.com
 - 😄 Pronouns: ela/dela
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=maraaujo&show_icons=true&theme=onedark">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=maraaujo&show_icons=true&theme=tokyonight">
 
 
 ## Linguagens que utilizo

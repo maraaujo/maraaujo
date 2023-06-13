@@ -7,6 +7,7 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maraaujo&show_icons=true&theme=onedark">
 
+
 ## Linguagens que utilizo
 <div style="display: inline_block"><br>
   <img align="center" alt="Maria-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

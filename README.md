@@ -6,6 +6,7 @@
 - 😄 Pronouns: ela/dela
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maraaujo&show_icons=true&theme=synthwave">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maraaujo&layuot=compact&langs_count=16&theme==synthwave">
 
 
 ## Linguagens que utilizo

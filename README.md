@@ -7,6 +7,6 @@
 
 <div>
   <a href="htpps://https://github.com/maraaujo"/>
-  <img height="180em" scr="https://github-readme-stats.vercel.app/api?username=maraaujo&show_icons=true&theme=transparent">
-  <img height="180em" scr="https://github-readme-stats.vercel.app/api?username=maraaujo&show_icons=true&theme=transparent">
+  <img height="180em" scr="https://github-readme-stats.vercel.app/api?username=maraaujo&show_icons=true&theme=cobalt">
+  <img height="180em" scr="https://github-readme-stats.vercel.app/api?username=maraaujo&show_icons=true&theme=cobalt">
 </div>

@@ -5,7 +5,7 @@
 - 📫 Contrate-me no email: mclemos65@gmail.com
 - 😄 Pronouns: ela/dela
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?maraaujo=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maraaujo&show_icons=true&theme=radical)
 
 ## Linguagens que utilizo
 <div style="display: inline_block"><br>

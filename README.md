@@ -1,6 +1,6 @@
 ### Olá, sou a Maria Cecília 
 
-- 🔭 Hoje trabalho como estagiária de forma remota na empresa BRplay, com cede em Brasília. 
+- 🔭 Hoje trabalho como estagiária de forma remota na empresa BRplay, com sede em Brasília. 
 - 🌱 Estou estudando JavaScript e React
 - 📫 Contrate-me no email: mclemos65@gmail.com
 - 😄 Pronouns: ela/dela

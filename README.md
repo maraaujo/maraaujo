@@ -1,9 +1,9 @@
 ### Olá, sou a Maria Cecília 
 
-- 🔭 Hoje trabalho como estagiária de forma remota na empresa BRplay, com sede em Brasília. 
+- 🔭 Hoje trabalho como junior de forma remota na empresa BRplay, com sede em Brasília. 
 - 🌱 Trabalho com JavaScript, React, Vue.js e C#
 - 📫 Contrate-me no email: mclemos65@gmail.com
-- 😄 Pronouns: ela/dela
+
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maraaujo&show_icons=true&theme=synthwave">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maraaujo&layuot=compact&langs_count=16&theme=synthwave">

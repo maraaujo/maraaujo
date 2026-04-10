@@ -1,7 +1,6 @@
 ### Olá, sou a Maria Cecília 
 
-- 🔭 Hoje trabalho como junior de forma remota na empresa BRplay, com sede em Brasília. 
-- 🌱 Trabalho com JavaScript, React, Vue.js e C#
+- 🌱 Trabalho com JavaScript, React, Vue.js, C# e Laravel
 - 📫 Contrate-me no email: mclemos65@gmail.com
 
 
